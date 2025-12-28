@@ -8,7 +8,7 @@ patterns, and technologies.
 ## Featured Projects
 
 ### 🔹 Full Stack Web Application
-* **Repo:** https://github.com/AishaForrester/Virtual-Zoo
+* **Repo:** https://github.com/AishaForrester/StyledUpEcommercePlaform
 * **Description:** Implementations of 
 * **Tech:** Java
 * **Focus:** Software Development Life Cycle, Advanced Java Programming, Data Structures, Algorithms, Git Proficiency, Implement Generative AI tools for Automation
