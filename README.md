@@ -9,9 +9,23 @@ patterns, and technologies.
 
 ### 🔹 Full Stack Web Application
 * **Repo:** https://github.com/AishaForrester/StyledUpEcommercePlaform
-* **Description:** Implementations of 
-* **Tech:** Java
-* **Focus:** Software Development Life Cycle, Advanced Java Programming, Data Structures, Algorithms, Git Proficiency, Implement Generative AI tools for Automation
+* **Description:** Implementations of full-stack e-commerce web application
+* ## Tech Stack
+
+- **Java**
+- **Spring Boot**
+- **Spring MVC**
+- **Spring Security**
+- **Hibernate / JPA**
+- **Servlets**
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Thymeleaf**
+- **MySQL**
+- **Stripe API**
+- 
+* **Focus:** Building and deploying secure, scalable RESTful applications using  Software Development Life Cycle, Advanced Java Programming, Spring Boot, JPA, and Spring Security.
 * **Certificate: 
 
 ### 🔹 Spring Boot REST API
