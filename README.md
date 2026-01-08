@@ -26,7 +26,7 @@ patterns, and technologies.
 - **Stripe API**
 - 
 * **Focus:** Building and deploying secure, scalable RESTful applications using  Software Development Life Cycle, Advanced Java Programming, Spring Boot, JPA, and Spring Security.
-* **Certificate: 
+* **Certificate:** Board Infinity Building Applications with Spring Boot and MVC Architecture 
 
 ### 🔹 Spring Boot REST API
 * **Repo:** 
