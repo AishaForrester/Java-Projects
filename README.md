@@ -24,7 +24,7 @@ patterns, and technologies.
 - **Thymeleaf**
 - **MySQL**
 - **Stripe API**
-- 
+
 * **Focus:** Building and deploying secure, scalable RESTful applications using  Software Development Life Cycle, Advanced Java Programming, Spring Boot, JPA, and Spring Security.
 * **Certificate:** Board Infinity Building Applications with Spring Boot and MVC Architecture 
 
