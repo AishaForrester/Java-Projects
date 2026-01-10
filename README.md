@@ -7,8 +7,8 @@ patterns, and technologies.
 
 ## Featured Projects
 
-### 🔹 Full Stack Web Application
-* **Repo:** https://github.com/AishaForrester/StyledUpEcommercePlaform
+### 🔹 Full Stack Ecommerce Web Application
+* **Repo:** [StyledUp Ecommerce Web Application](https://github.com/AishaForrester/StyledUpEcommercePlaform) 
 * **Description:** Implementations of full-stack e-commerce web application
 * ## Tech Stack
 
@@ -27,12 +27,14 @@ patterns, and technologies.
 
 * **Focus:** Building and deploying secure, scalable RESTful applications using  Software Development Life Cycle, Advanced Java Programming, Spring Boot, JPA, and Spring Security.
 * **Certificate:** Board Infinity Building Applications with Spring Boot and MVC Architecture 
+---
 
-### 🔹 Spring Boot REST API
-* **Repo:** 
-* **Description:** RESTful API with authentication, validation, and layered architecture
-* **Tech:** Java, Spring Boot, Maven, JPA, PostgreSQL
-* **Focus:** Clean architecture, REST design, persistence
+### 🔹 Full Stack Online Banking web application
+* **Repo:** [Horizon Online Banking Application](https://github.com/AishaForrester/Horizon-Online-Banking-Web-Application)
+* **Description:** The application allows customers to transfer and view debit card statement as well as supports secure payment processing. It utilizes a robust backend structure, clean architecture principles and best practices. RESTful API with authentication, validation, and layered architecture
+* **Tech:** Java, Spring Boot, gRADLE, JPA, PostgreSQL, HTML, CSS, JavaScript, React
+* **Focus:** Clean architecture, RESTful API design with authentication, validation, and layered architecture
+---
 
 ### 🔹 Data Structures & Algorithms
 * **Repo:** 
